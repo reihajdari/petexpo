@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "66562f864fe142071caaa3ac"
+  },
+  "name": "Qen",
+  "breed_group": "Sporting",
+  "size": "Large",
+  "lifespan": "10-12 years",
+  "origin": "Scotland",
+  "temperament": "Intelligent, Friendly, Devoted",
+  "description": "The Golden Retriever is a friendly and intelligent breed known for its gentle nature and love for people. They are great family pets and excel in various roles, including as guide dogs, therapy dogs, and search and rescue dogs.",
+  "category": "Dog",
+  "image": "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg",
+  "colors": [
+    "Golden",
+    "Cream"
+  ],
+  "createdAt": {
+    "$date": "2024-05-28T19:24:54.730Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T20:13:18.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665639f9624ac435a164508b"
+  },
+  "name": "Mace",
+  "breed_group": "Sporting",
+  "size": "Large",
+  "lifespan": "10-12 years",
+  "origin": "Scotland",
+  "temperament": "Intelligent, Friendly, Devoted",
+  "description": "The Golden Retriever is a friendly and intelligent breed known for its gentle nature and love for people. They are great family pets and excel in various roles, including as guide dogs, therapy dogs, and search and rescue dogs.",
+  "category": "Cat",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VTsTN947wxfPvR6azPju20BotT7BNvh_VZLnjduuNQ&s",
+  "colors": [
+    "Golden",
+    "Cream"
+  ],
+  "createdAt": {
+    "$date": "2024-05-28T20:09:29.818Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T20:09:29.818Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66563a32624ac435a1645090"
+  },
+  "name": "Pellumb",
+  "breed_group": "Sporting",
+  "size": "Large",
+  "lifespan": "10-12 years",
+  "origin": "Scotland",
+  "temperament": "Intelligent, Friendly, Devoted",
+  "description": "The Golden Retriever is a friendly and intelligent breed known for its gentle nature and love for people. They are great family pets and excel in various roles, including as guide dogs, therapy dogs, and search and rescue dogs.",
+  "category": "Bird",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9VET8st0wCaynCO8dbxtzgmoK0R9CtodFxZLOT4kKlg&s",
+  "colors": [
+    "Golden",
+    "Cream"
+  ],
+  "createdAt": {
+    "$date": "2024-05-28T20:10:26.248Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T20:10:26.248Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66563a61624ac435a1645097"
+  },
+  "name": "Pellumb 2",
+  "breed_group": "Sporting",
+  "size": "Large",
+  "lifespan": "10-12 years",
+  "origin": "Scotland",
+  "temperament": "Intelligent, Friendly, Devoted",
+  "description": "The Golden Retriever is a friendly and intelligent breed known for its gentle nature and love for people. They are great family pets and excel in various roles, including as guide dogs, therapy dogs, and search and rescue dogs.",
+  "category": "Bird",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9VET8st0wCaynCO8dbxtzgmoK0R9CtodFxZLOT4kKlg&s",
+  "colors": [
+    "Golden",
+    "Cream"
+  ],
+  "createdAt": {
+    "$date": "2024-05-28T20:11:13.215Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T20:11:13.215Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66563a8d624ac435a164509b"
+  },
+  "name": "Mace 2",
+  "breed_group": "Sporting",
+  "size": "Large",
+  "lifespan": "10-12 years",
+  "origin": "Scotland",
+  "temperament": "Intelligent, Friendly, Devoted",
+  "description": "The Golden Retriever is a friendly and intelligent breed known for its gentle nature and love for people. They are great family pets and excel in various roles, including as guide dogs, therapy dogs, and search and rescue dogs.",
+  "category": "Cat",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VTsTN947wxfPvR6azPju20BotT7BNvh_VZLnjduuNQ&s",
+  "colors": [
+    "Golden",
+    "Cream"
+  ],
+  "createdAt": {
+    "$date": "2024-05-28T20:11:57.468Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T20:13:02.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66563ab4624ac435a164509d"
+  },
+  "name": "Qen 2",
+  "breed_group": "Sporting",
+  "size": "Large",
+  "lifespan": "10-12 years",
+  "origin": "Scotland",
+  "temperament": "Intelligent, Friendly, Devoted",
+  "description": "The Golden Retriever is a friendly and intelligent breed known for its gentle nature and love for people. They are great family pets and excel in various roles, including as guide dogs, therapy dogs, and search and rescue dogs.",
+  "category": "Dog",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSqh-2u4TBcAd2FJDPTaxG5uhJA1Zr3a3TkbUnQ2qd-A&s",
+  "colors": [
+    "Golden",
+    "Cream"
+  ],
+  "createdAt": {
+    "$date": "2024-05-28T20:12:36.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T20:12:36.170Z"
+  },
+  "__v": 0
+}]

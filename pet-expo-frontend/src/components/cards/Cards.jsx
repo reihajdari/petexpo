@@ -85,7 +85,7 @@ function Cards() {
   return (
     <div
       style={cardStyle}
-      className="flex flex-wrap gap-6 justify-center pt-12 h-[100vh]"
+      className="flex flex-wrap gap-6 justify-center pt-12 "
     >
       {filteredRecords.map((pet, index) => (
         <Card key={index} className={`w-72 m-4 ${cardColor}`}>
