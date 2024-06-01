@@ -32,11 +32,6 @@ function ContactUsContent() {
           eager to hear from you.
         </Typography>
         <div className="grid grid-cols-1 gap-x-12 gap-y-6 lg:grid-cols-2 items-start">
-          <img
-            src="/image/map.svg"
-            alt="map"
-            className="w-full h-full lg:max-h-[510px]"
-          />
           <form action="#" className="flex flex-col gap-4 lg:max-w-sm">
             <div className="grid grid-cols-2 gap-4">
               <div>

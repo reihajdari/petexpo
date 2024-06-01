@@ -49,8 +49,7 @@ function AdminContent() {
   const handleUpdatePet = async (e) => {
     e.preventDefault();
     try {
-      const response = await updatePet(selectedPet._id, selectedPet);
-      console.log("Update response:", response);
+      await updatePet(selectedPet._id, selectedPet);
       setAllPets((prevPets) =>
         prevPets.map((p) => (p._id === selectedPet._id ? selectedPet : p))
       );

@@ -31,10 +31,8 @@ function AddPet() {
 
   const handleAddPet = async (e) => {
     e.preventDefault();
-    console.log("Adding new pet:", newPet);
     try {
       const response = await createPet(newPet);
-      console.log("Add response:", response);
       setAllPets((prevPets) => [...prevPets, response]);
       setIsAddModalOpen(false);
     } catch (error) {
